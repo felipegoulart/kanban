@@ -17,6 +17,7 @@
       "jest"
   ],
   "rules": {
+    "no-new": "off",
     "no-useless-constructor": "off",
     "jest/no-disabled-tests": "warn",
     "jest/no-focused-tests": "error",
